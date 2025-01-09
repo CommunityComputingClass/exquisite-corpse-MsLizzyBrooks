@@ -4,5 +4,7 @@ function setup() {
 
 function draw() {
   background(200);
-  
+  blghghghg 
+  fill("pink")
+  ellipse(100,100,50)
 }
